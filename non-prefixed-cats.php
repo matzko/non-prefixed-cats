@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Non-prefixed Categories
-Plugin URI: 
-Description: Removes the prefix from the URL for a category.
+Plugin URI: http://austinmatzko.com/wordpress-plugins/non-prefixed-categories/
+Description: Removes the "category" prefix from the URL for a category.
 Version: 1.0
 Author: Austin Matzko
-Author URI: http://ilfilosofo.com
+Author URI: http://austinmatzko.com
 */
 
 class NonPrefixedCategories {
