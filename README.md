@@ -12,7 +12,6 @@ Removes the "category" prefix from the URL for a category.
 
 Removes the "category" prefix from the URL for a category.
 
-* [WordPress](http://wordpress.org/ "Your favorite software")
 * Non-prefixed Categories is developed by [Austin Matzko](http://austinmatzko.com "My blog") ([filosofo](http://profiles.wordpress.org/users/filosofo/ "WordPress.org profile")).
 * Non-prefixed Categories can be found on [Github](https://github.com/matzko/non-prefixed-cats "Github.com URL for Non-Prefixed Categories").
 * Clone it from [git://github.com/matzko/non-prefixed-cats.git](git://github.com/matzko/non-prefixed-cats.git). Patches (pull requests) welcome!
